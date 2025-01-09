@@ -1,0 +1,37 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model Class {
+  week Int
+  weekTitle String
+  class String
+  startDate DateTime
+  endDate DateTime
+  @@id([week, class])
+  topic Topic[]
+}
+
+model Topic {
+  taskId String @id
+  weekId Int
+  classId String
+  topic String
+  class Class @relation(fields: [weekId, classId], references: [week, class])
+}
+
+model Lab {
+  labId Int @id @default(autoincrement())
+
+}
