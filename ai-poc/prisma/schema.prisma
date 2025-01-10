@@ -17,10 +17,10 @@ model Class {
   week Int
   weekTitle String
   class String
-  startDate DateTime
-  endDate DateTime
+  starts DateTime
+  ends DateTime
+  topics Topic[]
   @@id([week, class])
-  topic Topic[]
 }
 
 model Topic {
@@ -29,9 +29,11 @@ model Topic {
   classId String
   topic String
   class Class @relation(fields: [weekId, classId], references: [week, class])
+  labs Lab[]
 }
 
 model Lab {
   labId Int @id @default(autoincrement())
-
+  taskId String
+  topic Topic @relation(fields: [taskId], references: [taskId])
 }

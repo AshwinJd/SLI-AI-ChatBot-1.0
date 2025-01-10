@@ -2,6 +2,9 @@
   "name": "ai-poc",
   "version": "1.0.0",
   "main": "index.js",
+  "prisma": {
+    "seed": "ts-node prisma/seed.ts"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,8 +14,14 @@
   "description": "",
   "devDependencies": {
     "@types/node": "^22.10.5",
+    "csv-parser": "^3.1.0",
     "prisma": "^6.2.1",
+    "ts-node": "^10.9.2",
     "tsx": "^4.19.2",
     "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.2.1",
+    "any-date-parser": "^2.0.1"
   }
 }

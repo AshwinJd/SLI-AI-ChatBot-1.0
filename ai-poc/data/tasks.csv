@@ -1,0 +1,89 @@
+,,,,
+,,,,
+Week,Class,#,Topic,Lab
+1,1,,Course Introduction,
+1,1,01A,Explain Cable Types and Connectors,Virtual Workbench Lab: Upgrade/Install GPU and Daisy-Chain Monitors
+1,1,01B,Install and Configure Motherboards,Virtual Workbench Lab: Install a Motherboard
+1,2,01C,Explain Legacy Cable Types,
+1,2,02A,Install and Configure Power Supplies and Cooling,Virtual Workbench Lab: Install Power Supplies and Cooling
+1,2,02B,Select and Install Storage Devices,Virtual Workbench Lab: Install and Configure SSD Storage
+1,3,02C,Install and Configure System Memory,Virtual Workbench Lab: Install RAM
+1,3,02D,Install and Configure CPUs,Virtual Workbench Lab: Install a CPU and Cooler 
+2,4,03A,Apply Troubleshooting Methodology,
+2,4,03B,Configure BIOS/UEFI,
+2,4,03C,Troubleshoot Power and Disk Issues,
+2,4,03D,Troubleshoot System and Display Issues,
+2,4,04A,Compare Network Types,Assisted Lab: Explore the VM Lab Environment
+2,5,04B,Compare Networking Hardware,Assisted Lab: Compare Networking Hardware
+2,5,04C,Explain Network Cable Types,
+2,5,04D,Compare Wireless Networking Types,Assisted Lab: Compare Wireless Network Technologies
+2,5,05A,Compare Internet Connection Types,
+2,W-1,,Workshop,
+3,6,05B,Use Basic TCP/IP Concepts,Assisted Lab: Configure a SOHO Router
+3,6,05C,Compare Protocols and Ports,
+3,6,05D,Compare Network Configuration Concepts,
+3,6,06A,Summarize Services Provided by Networked Hosts,Assisted Lab: Compare Protocols and Ports
+3,7,06B,Compare Internet and Embedded Appliances,
+3,7,06C,Troubleshoot Networks,Assisted Lab: Troubleshoot a Network Scenario #1
+3,7,06C,Troubleshoot Networks,Assisted Lab: Troubleshoot a Network Scenario #2
+3,7,06C,Troubleshoot Networks,APPLIED Lab: Troubleshoot a Network Scenario #3
+3,7,06C,Troubleshoot Networks,APPLIED Lab: Troubleshoot a Network Scenario #4
+3,8,07A,Summarize Client-side Virtualization,
+3,8,07B,Summarize Cloud Concepts,
+3,8,08A,Set Up Mobile Devices and Peripherals,Virtual Workbench Lab: Configure Laptop Dock and External Peripherals
+3,8,08B,Configure Mobile Device Apps,
+4,9,08C,Install and Configure Laptop Hardware,Virtual Workbench Lab: Add Expansion SSD in a Laptop
+4,9,08C,Install and Configure Laptop Hardware,Virtual Workbench Lab: Update Laptop RAM
+4,10,08D,Troubleshoot Mobile Device Issues,Virtual Workbench Lab: Replace Laptop Non-user Removable Battery
+4,10,09A,Deploy Printer and Multifunction Devices,Assisted Lab: Deploy a Printer
+4,10,09B,Replace Print Device Consumables,
+4,10,09C,Troubleshoot Print Device Issues,
+4,10,09C,Course Summary/Exam Practice,
+4,10,09C,Course Introduction,Assisted Lab: Explore the VM Lab Environment
+4,W-2,,Workshop,
+5,11,10A,Configure Windows User Settings,Assisted Lab: Manage User Settings in Windows
+5,11,10A,Configure Windows User Settings,Assisted Lab: Support Windows 11
+5,11,10B,Configure Windows System Settings,Assisted Lab: Configure Windows System Settings
+5,11,11A,Use Management Consoles,Assisted Lab: Use Management Consoles
+5,12,11B,Use Performance and Troubleshooting Tools,Assisted Lab: Use Task Manager
+5,12,11B,Use Performance and Troubleshooting Tools,Assisted Lab: Monitor Performance and Event Logs
+5,12,11C,Use Command-line Tools,Assisted Lab: Use Command-line Tools
+5,12,11C,Use Command-line Tools,APPLIED Lab: Support Windows 10
+5,13,12A,Explain OS Types,
+5,13,12B,Compare Windows Editions,
+5,13,13A,Perform OS Installations and Upgrades,Assisted Lab: Perform Windows 10 Installation
+5,13,13A,Perform OS Installations and Upgrades,Assisted Lab: Perform Ubuntu Linux Installation
+6,14,13B,Install and Configure Applications,Assisted Lab: Install and Configure an Application
+6,14,13C,Troubleshoot Windows OS Problems,Assisted Lab: Troubleshoot Systems and Services
+6,14,13C,Troubleshoot Windows OS Problems,Assisted Lab: Troubleshoot a Windows OS Issue
+6,14,,Review,
+6,14,14A,Configure Windows Networking,
+6,15,14B,Troubleshoot Windows Networking,Assisted Lab: Configure Windows Networking
+6,15,14C,Configure Windows Security Settings,
+6,15,14D,Manage Windows Shares,Assisted Lab: Configure Folder Sharing in a Workgroup
+6,15,14D,Manage Windows Shares,Assisted Lab: Support Active Directory Networking
+6,W-3,,Workshop,
+7,16,15A,Identify Features of Linux,Assisted Lab: Manage Linux Using Command-line Tools
+7,16,15A,Identify Features of Linux,Assisted Lab: Manage Files Using Linux Command-line Tools
+7,16,15B,Identify Features of macOS,APPLIED Lab: Support and Troubleshoot Network Hosts
+7,16,16A,"Explain Attacks, Threats, and Vulnerabilities",
+7,16,16B,Compare Wireless Security Protocols,
+7,17,16C,Configure SOHO Router Security,Assisted Lab: Configure SOHO Router Security
+7,17,16D,Summarize Security Measures,
+7,17,17A,Configure Workstation Security,Assisted Lab: Configure Workstation Security
+7,17,17B,Configure Browser Security,Assisted Lab: Configure Browser Security
+7,18,17C,Troubleshoot Workstation Security Issues,Assisted Lab: Troubleshoot Security Issues Scenario #1
+7,18,17C,Troubleshoot Workstation Security Issues,APPLIED Lab: Troubleshoot Security Issues Scenario #2
+7,18,18A,Configure Mobile OS Security,
+7,18,18B,Troubleshoot Mobile OS and Applications Software,
+7,18,18C,Troubleshoot Mobile OS and Applications Security,
+8,19,19A,Use Remote Access Technologies,Assisted Lab: Use Remote Access Technologies
+8,19,19B,Implement Backup and Recovery,Assisted Lab: Implement Backup and Recovery
+8,19,19C,Explain Data Handling Best Practices,
+8,19,19D,Identify Basics of Scripting,Assisted Lab: Implement a PowerShell Script
+8,19,19D,Identify Basics of Scripting,Assisted Lab: Implement a Bash Script
+8,20,20A,Implement Best Practice Documentation,Assisted Lab: Manage a Support Ticket
+8,20,20B,Use Proper Communication Techniques,
+8,20,20C,Use Common Safety and Environmental Procedures,
+8,20,,Course Summary,
+8,W-4,,Workshop,
